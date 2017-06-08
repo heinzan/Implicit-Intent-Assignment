@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    
+    <string name="share_name">Sharing with ShareCompat</string>
+    <string name="navigate_map">Navigating on the Map</string>
+    <string name="phone_call">Making Phone Calls</string>
+    <string name="sending_mail">Sending Emails</string>
+    <string name="take_picture">Taking Picture with Camera</string>
+    <string name="select_picture">Selecting Picture from device storage</string>
+</resources>
